@@ -1,4 +1,6 @@
 Lip Sync Code README
+
+
 Welcome to the Lip Sync Code repository! This repository contains code and instructions for lip-syncing audio to video using a pre-trained model. In order to get started, please follow the steps below.
 
 Getting Started
